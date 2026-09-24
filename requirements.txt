@@ -1,0 +1,4 @@
+# 本服务仅使用 Python 3.11+ 标准库（http.server / sqlite3 / threading），无第三方运行时依赖。
+# 集成测试基于标准库 unittest，同样无需安装依赖。
+#
+# Python >= 3.11
